@@ -1,15 +1,15 @@
 const data = {};
 
-data.firstTxt = 'The Matrix has you...';
+data.firstTxt = 'you took the first step...';
 
-data.secondTxt = 'Follow the White Path...';
+data.secondTxt = 'the journey has just begun...';
 
-data.thirdTxt = '> Learn the Truth <';
+data.thirdTxt = '> experience your future <';
 
 
-data.fontSize = 30;
+data.fontSize = 25;
 
-data.textHeight = 35;
+data.textHeight = 29;
 
 // the lower the faster
-data.typeSpeed = 2;
+data.typeSpeed = 1;
