@@ -4,7 +4,7 @@ data.firstTxt = 'you took the first step...';
 
 data.secondTxt = 'the journey has just begun...';
 
-data.thirdTxt = '> experience your future <';
+data.thirdTxt = '> experience now <';
 
 
 data.fontSize = 25;
