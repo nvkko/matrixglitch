@@ -7,7 +7,7 @@ data.secondTxt = 'the journey has just begun...';
 data.thirdTxt = '> experience now <';
 
 
-data.fontSize = 25;
+data.fontSize = 22;
 
 data.textHeight = 29;
 
